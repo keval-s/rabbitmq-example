@@ -1,0 +1,2 @@
+vhost_name,queue_name,binding_exchange_name,binding_properties
+demo,input.q,input.x,{"routing_key":"input.*","arguments":{}}

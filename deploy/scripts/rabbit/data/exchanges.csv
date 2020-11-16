@@ -1,0 +1,2 @@
+vhost_name,exchange_name,exchange_properties
+demo,input.x,{"type":"topic","auto_delete":false,"durable":true,"internal":false,"arguments":{}}

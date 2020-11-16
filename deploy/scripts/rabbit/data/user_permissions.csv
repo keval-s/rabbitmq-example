@@ -1,0 +1,2 @@
+vhost_name,user_name,user_permission
+demo,demo,{"configure":"input\.*","write":"input\.*","read":"input\.*"}

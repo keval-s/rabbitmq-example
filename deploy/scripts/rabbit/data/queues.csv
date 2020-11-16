@@ -1,0 +1,2 @@
+vhost_name,queue_name,queue_properties
+demo,input.q,{"auto_delete":false,"durable":true,"arguments":{}}
