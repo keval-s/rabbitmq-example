@@ -1,1 +1,17 @@
+spring:
+  cloud:
+    discovery:
+      client:
+        composite-indicator:
+          enabled: false
+  jmx:
+    enabled: true
 
+management:
+  health:
+    diskspace:
+      enabled: false
+    rabbit:
+      enabled: true
+    refresh:
+      enabled: false
